@@ -1,35 +1,3 @@
-Here’s a detailed README template for **Digital-Body-Language**. You can copy-paste and adjust any parts as needed (e.g. names, versions, usage, etc.).
-
----
-
-```markdown
-# Digital-Body-Language
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
-[![Build/Status](https://img.shields.io/badge/build-passing-brightgreen)]()  
-[![Python](https://img.shields.io/badge/python-3.x-blue.svg)]()
-
-## Table of Contents
-
-- [Overview](#overview)  
-- [Features](#features)  
-- [Architecture](#architecture)  
-- [Tech Stack](#tech-stack)  
-- [Getting Started](#getting-started)  
-  - [Prerequisites](#prerequisites)  
-  - [Installation](#installation)  
-  - [Running Locally](#running-locally)  
-- [Usage](#usage)  
-- [Model / Machine Learning Service](#model--machine-learning-service)  
-- [Testing](#testing)  
-- [Docker + Deployment](#docker--deployment)  
-- [Folder Structure](#folder-structure)  
-- [Configuration](#configuration)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Authors / Acknowledgements](#authors--acknowledgements)
-
----
 
 ## Overview
 
@@ -271,14 +239,6 @@ This project is licensed under the **MIT License** (or your choice). See the [LI
 ## Authors / Acknowledgements
 
 * **Anurag Raut** — Initial work & idea
-* Contributors: *(list others if any)*
-
-Special thanks to HackBees for providing the event / environment to build this.
 
 ---
 
-```
-
-If you want, I can generate a version customized to your exact code (with ports, names etc.) by inspecting the files. Do you want that?
-::contentReference[oaicite:0]{index=0}
-```
